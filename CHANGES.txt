@@ -1,0 +1,8 @@
+== Version History ==
+
+x.x (mm/dd/yyyy):
+
+1.1 (08/04/2015):
+ - code cleanup
+ - 1.9 compatibility changes
+ - move admin settings to email list
