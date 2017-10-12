@@ -1,0 +1,16 @@
+{
+  "name": "au/reportedcontent_notify",
+  "type": "elgg-plugin",
+  "description": "Elgg plugin that notifies selected admins when content is reported",
+  "license": "GPL-2.0",
+  "keywords": ["elgg", "plugin"],
+  "authors": [
+    {
+      "name": "Matt Beckett",
+      "email": "beck24@gmail.com"
+    }
+  ],
+  "require": {
+    "composer/installers": ">=1.0.8"
+  }
+}
