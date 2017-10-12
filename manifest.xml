@@ -3,7 +3,7 @@
     <name>Reported Content Notification</name>
     <id>reportedcontent_notify</id>
     <author>Matt Beckett</author>
-    <version>1.1</version>
+    <version>1.1.1</version>
     <description>Notify selected admins when content is reported</description>
     <website>https://landing.athabascau.ca</website>
     <copyright>(C) Athabasca University, 2012</copyright>
